@@ -3,7 +3,7 @@ import Cards from "./components/Cards";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import NavBar from "./components/NavBar";
-import NewsLatter from "./components/Newslatter";
+import NewsLatter from "./components/NewsLatter";
 
 const App = () => {
   return (
